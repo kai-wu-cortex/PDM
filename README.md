@@ -1,2 +1,2 @@
 # PDM
-a little pdm system PDM
+a little pdm system instead respository
